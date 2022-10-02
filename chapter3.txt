@@ -1,1 +1,1 @@
-123456797226656514673579879787987978765153404684897984065135768786405464665456464654654
+This is chapter three of the story directory which is currently being saved in the alien plot branch. This here we are leaning git version control.
