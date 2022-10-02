@@ -1,10 +1,1 @@
-dnkjfnkjdnc,mz,mcn,m<n,Njlska;;SK';l
-[ql
-;
-Q;S
-'
-s'a
-
-s
-\Ss
-Ssa
+This is chapter two of the story directory which is currently being saved in the alien plot branch. This here we are leaning git version control.

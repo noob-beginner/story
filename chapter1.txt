@@ -1,1 +1,1 @@
-ndfkjehiwhrkwjkjnkjsfnwjrhwiqroiqsjfklqsndkfjioewuoiwufljlk.
+This is chapter one of the story directory which is currently being saved in the alien plot branch. This here we are leaning git version control.
